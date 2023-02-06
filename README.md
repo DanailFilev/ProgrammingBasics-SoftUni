@@ -18,4 +18,4 @@ Problem Solutions repository for the tasks given in the course.
 # Certificate
 Link to certificate - https://softuni.bg/certificates/details/74085/253fc28c
 <p></p>
-<img src="https://i.postimg.cc/k5Nvk4n9/Programming-Basics-with-C-2019-Honorable-mention.png">
+<img src="https://i.postimg.cc/bJmyVQWn/Programming-basics-with-C.png">
